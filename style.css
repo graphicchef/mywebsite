@@ -3,7 +3,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
-    font-size: 40px;
+    font-size: 50px;
 }
 h2{
     font-size: 30px;
@@ -24,7 +24,7 @@ p{
     padding: 2%;
 }
 .mui img{
-    width: 60%;
+    width: 70%;
 }
 .bg-banner{
     background-image: url("image/top-banner.png");
