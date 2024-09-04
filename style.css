@@ -3,16 +3,16 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
-    font-size: 50px;
-}
-h2{
     font-size: 40px;
 }
-h3{
+h2{
     font-size: 30px;
 }
-p{
+h3{
     font-size: 20px;
+}
+p{
+    font-size: 15px;
 }
 .color-word{
     color: tomato;
@@ -20,16 +20,15 @@ p{
 .mui{
     width: 40%;
     float: left;
-    margin-left: 5%;
+    margin-left: 3%;
     padding: 2%;
 }
 .mui img{
-    width: 70%;
+    width: 60%;
 }
 .bg-banner{
     background-image: url("image/top-banner.png");
     background-repeat: no-repeat;
-    background-position: right;
 }
 section{
     height: 500px;
@@ -51,7 +50,7 @@ section{
 .exp{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 80%;
+    height: 50%;
     background-color: aliceblue;
 }
 .experience-area{
