@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.color-word{
+    color: tomato;
+}
+.mui{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.mui img{
+    width: 70%;
+}
+.bg-banner{
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+section{
+    height: 500px;
+    scroll-padding-bottom: 150px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, orange,tomato);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.about-me{
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.exp{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: aliceblue;
+}
+.experience-area{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+#full-stuck{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, orange ,tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, purple);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 10;
+    color: gray;
+}
