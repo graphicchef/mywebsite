@@ -20,11 +20,11 @@ p{
 .mui{
     width: 40%;
     float: left;
-    margin-left: 3%;
-    padding: 2%;
+    margin-left: 5%;
+    padding-left: 2%;
 }
 .mui img{
-    width: 70%;
+    width: 80%;
 }
 .bg-banner{
     background-image: url("image/top-banner.png");
@@ -50,14 +50,13 @@ section{
 .exp{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
-    height: 50%;
+    height: 80%;
     background-color: aliceblue;
 }
 .experience-area{
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
-
 }
 #full-stuck{
     border-left: 7px solid;
